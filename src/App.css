@@ -1,3 +1,4 @@
+
 .App {
   text-align: center;
 }
@@ -36,3 +37,10 @@
     transform: rotate(360deg);
   }
 }
+
+.title {
+
+  @apply text-4xl font-bold mb-8;
+
+}
+
